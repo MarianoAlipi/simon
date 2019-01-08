@@ -1,0 +1,50 @@
+.colorButton {
+  width: 7em;
+  height: 7em;
+}
+
+.debug {
+  display: none;
+}
+
+h1 {
+  font-family: sans-serif;
+  color: navy;
+}
+
+p {
+  font-family: sans-serif;
+  font-size: 0.8em;
+  margin-top: 10em;
+}
+
+#green {
+  background-color: green;
+}
+
+#red {
+  background-color: red;
+}
+
+#yellow {
+  background-color: yellow;
+}
+
+#blue {
+  background-color: blue;
+}
+
+#play {
+  width: 4em;
+  height: 7em;
+}
+
+#submit {
+  width: 7em;
+  height: 7em;
+}
+
+#reset {
+  width: 4em;
+  height: 7em;
+}
